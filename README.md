@@ -96,3 +96,11 @@ Trigger on `Project` table that:
 - Ensure each stored procedure and trigger includes proper error handling and validation.
 - Use meaningful names and follow best practices for SQL development.
 - Test each procedure/trigger independently to ensure correct behavior.
+
+## 📦 Download IKEA_Company_DB
+
+If you'd like to use the **IKEA_Company_DB ||ITI DB || MyCompany** for practicing the Views section, you can download it from the link below:
+
+🔗 [Download IKEA DB](https://drive.google.com/file/d/1WULxidId0fJwl6-4eSraZoqAFSAd_LbZ/view?usp=sharing)
+🔗 [Download ITI DB](https://drive.google.com/file/d/1CKTyVY98kAuZESL0wN05CV1_207HMcB0/view?usp=sharing)
+🔗 [Download MyCompany DB](https://drive.google.com/file/d/1R1q5i1DBYYRkCIlz1Ev-qeKKhQ8pOb77/view?usp=sharing)
